@@ -1,8 +1,7 @@
 # Projeto-de-Software-I
 
 Equipe:
-Renato Cordeiro
-Letícia Lima
+Renato Cordeiro e Letícia Lima
 
 É um projeto desenvolvido para um jogo em linguagem C.
 São dois mini jogos, utilizando o console para a interação com o usuário.
